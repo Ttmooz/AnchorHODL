@@ -1,8 +1,8 @@
 import os
 
 mnemonic = os.environ.get('MNEMONIC', 'Terra1sk4zynpcaadkzyg2qq2yhhls34k0mhxgtrnqjv')
-target_percent = 35
-trigger_at_percent = 50
+target_percent = 58.33
+trigger_at_percent = 83.33
 
 # (True or False)
 enabled_auto_borrow = False
