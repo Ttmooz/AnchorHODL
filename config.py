@@ -5,7 +5,7 @@ target_percent = 35
 trigger_at_percent = 50
 
 # (True or False)
-enabled_auto_borrow = True
+enabled_auto_borrow = False
 auto_borrow_at_percent = 30
 NETWORK = 'MAINNET'
 
